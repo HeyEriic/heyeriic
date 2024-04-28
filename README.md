@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**HeyEriic/heyeriic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "nome": "Eric Nascimento",
+  "profissao": "Engenheiro de Software | Desenvolvedor Backend",
+  "linguagens": ["Java", "Go", "Javascript"],
+  "frameworks": ["Springboot", "Node.js"],
+  "formacao": [
+    {
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "instituicao": "Fael",
+      "ano_conclusao": 2022
+    },
+    {
+      "curso": "Engenharia de Software",
+      "instituicao": "UNICID | Universidade Cidade de São Paulo",
+      "ano_conclusao": 2026
+    }
+  ],
+  "contato": {
+    "email": "eriicdiiego@hotmail.com",
+    "linkedin": "linkedin.com/in/heyeriic",
+    "github": "github.com/heyeriic"
+  }
+}
