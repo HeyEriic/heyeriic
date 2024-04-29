@@ -2,8 +2,11 @@
 {
   "nome": "Eric Nascimento",
   "profissao": "Engenheiro de Software | Desenvolvedor Backend",
-  "linguagens": ["Java", "Go", "Javascript"],
-  "frameworks": ["Springboot", "Node.js"],
+  "linguagens": {
+    "conhecimento/experiencia: ["Java", "Go", "Javascript"],
+    "aprendendo": ["C#"]
+  },
+  "frameworks": ["Springboot", "Node.js", "Dotnet"],
   "formacao": [
     {
       "curso": "Análise e Desenvolvimento de Sistemas",
