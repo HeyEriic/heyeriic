@@ -3,7 +3,7 @@
   "nome": "Eric Nascimento",
   "profissao": "Engenheiro de Software | Desenvolvedor Backend",
   "linguagens": {
-    "conhecimento/experiencia: ["Java", "Go", "Javascript"],
+    "conhecimento/experiencia": ["Java", "Go", "Javascript"],
     "aprendendo": ["C#"]
   },
   "frameworks": ["Springboot", "Node.js", "Dotnet"],
